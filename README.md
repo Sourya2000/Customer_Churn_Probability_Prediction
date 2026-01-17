@@ -42,12 +42,14 @@ source venv/bin/activate
 ### Step 4: Install Dependencies
 Make sure your `requirements.txt` contains:
 ```txt
-streamlit>=1.28.0
-pandas>=2.1.0
-numpy>=1.24.0
-scikit-learn>=1.3.0
-xgboost>=1.7.0
-joblib>=1.3.0
+﻿pandas
+numpy
+scikit-learn
+xgboost
+joblib
+streamlit
+optuna
+fpdf
 ```
 
 Then install:
@@ -172,3 +174,4 @@ This project is provided for demonstration purposes. Please check with the proje
 **Enjoy predicting customer churn!** 🎯
 
 *Last Updated: January 2026*
+
