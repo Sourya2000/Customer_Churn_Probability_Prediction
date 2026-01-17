@@ -1,5 +1,12 @@
 # Customer Churn Prediction - Local Setup Guide
 
+For live application : https://customerchurnprobabilityprediction-mnjwvsggrpxcavwrzmzyf8.streamlit.app/
+
+## If the app is not opening click - Get the app back and it will be resumed after 2 minutes
+
+<img width="1354" height="611" alt="image" src="https://github.com/user-attachments/assets/6120284a-41e8-4174-8c79-2dc272a1a105" />
+
+
 ## 📋 Project Overview
 A machine learning system that predicts customer churn risk for telecom companies. The project includes a trained XGBoost model on AWS Sagemaker and an interactive Streamlit web application for real-time predictions.
 
@@ -174,4 +181,5 @@ This project is provided for demonstration purposes. Please check with the proje
 **Enjoy predicting customer churn!** 🎯
 
 *Last Updated: January 2026*
+
 
